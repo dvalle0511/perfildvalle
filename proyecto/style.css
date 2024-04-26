@@ -1,0 +1,19 @@
+body {
+	background: rgb(113, 38, 241);
+	color: white;
+	display: block;
+	font-family: "Times New Roman", Times, serif;
+	text-align: center;
+}
+
+.imagen {
+	width: 250px;
+	height: 250px;
+	background: blue;
+	border-radius: 180px;
+	box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+}
+
+.parrafo {
+	text-align: justify;
+}
